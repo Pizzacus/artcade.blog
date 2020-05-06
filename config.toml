@@ -1,4 +1,4 @@
-baseURL = "http://artcade.blog/"
+baseURL = "https://artcade.blog/"
 languageCode = "fr"
 title = "Artcade"
 theme = "bilberry-hugo-theme"
