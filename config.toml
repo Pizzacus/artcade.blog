@@ -19,6 +19,7 @@ DefaultContentLanguage = "fr"
     customImage = "alien.webp"
     showReadingTime = true
     copyrightUseCurrentYear = true
+    css_modules = ["css/custom.css"]
 
 [taxonomies]
   author   = "author"
