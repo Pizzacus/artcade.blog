@@ -18,6 +18,7 @@ DefaultContentLanguage = "fr"
     enableMomentJs = true
     customImage = "alien.webp"
     showReadingTime = true
+    copyrightUseCurrentYear = true
 
 [taxonomies]
   author   = "author"
