@@ -17,7 +17,7 @@ Tout comme toutes les disciplines artistiques, l’évolution de la technique s�
 
 J’espère que vous aurez autant de plaisir à lire mes articles que j’ai eu en les écrivant&nbsp;! Compte tenu de l’engouement autours du jeu rétro, je pense bien en intéresser plus d’un. Et en comprenant le fonctionnement des premières technologies, on comprend mieux le chemin qu’on a traversé pour en arriver là où on est.
 
-Parmi les sujets sue lesquels je compte écrire, il y a&nbsp;:
+Parmi les sujets sur lesquels je compte écrire, il y a&nbsp;:
 
 * **La N-Zap, le ROB,** et les autres manières de pointer sur un écran
 * **La 10NES** et la guerre pour publier des jeux vidéos
