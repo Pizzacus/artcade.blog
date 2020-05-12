@@ -13,7 +13,7 @@ Cette période est intéressante, car les systèmes de cette époque étaient tr
 
 **Je veux rendre hommage à ce vrai savoir-faire** et l’expliquer à ceux qui ne parlent pas couramment le langage technique. Même si je suppose que vous êtes familier avec les jeux vidéos, pas besoin d’avoir fait Bac +5 pour comprendre ce dont je parle&nbsp;!
 
-Tout comme toutes les disciplines artistiques, l’évolution de la technique s’emmêle beaucoup avec l’histoire de la forme d’art. L’histoire du jeu vidéo sera donc un sujet que j’aborderai de façon secondaire de temps en temps.
+Comme toutes les disciplines artistiques, l’évolution de la technique s’emmêle beaucoup avec l’histoire de la forme d’art. L’histoire du jeu vidéo sera donc un sujet que j’aborderai de façon secondaire de temps en temps.
 
 J’espère que vous aurez autant de plaisir à lire mes articles que j’ai eu en les écrivant&nbsp;! Compte tenu de l’engouement autours du jeu rétro, je pense bien en intéresser plus d’un. Et en comprenant le fonctionnement des premières technologies, on comprend mieux le chemin qu’on a traversé pour en arriver là où on est.
 
