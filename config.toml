@@ -11,7 +11,15 @@ DefaultContentLanguage = "fr"
 
 [params]
     author = "Pizzacus"
-    subtitle = "Une explorations des technologies provenant de l'aube du jeu vidéo"
+    description = "Artcade - Le savoir-faire à l'aube du jeu vidéo"
+    subtitle = "Une exploration du savoir-faire à l'aube du jeu vidéo"
     copyrightBy = "par Pizzacus"
     showSocialMedia = false
     enableMomentJs = true
+    customImage = "alien.webp"
+    showReadingTime = true
+
+[taxonomies]
+  author   = "author"
+  tag      = "tags"
+  category = "categories"
