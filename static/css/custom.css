@@ -2,3 +2,13 @@
     color: #217aba;
     font-style: normal;
 }
+
+.bilberry-hugo-theme .content figure h4 {
+    font-family: inherit;
+    font-size: 1em;
+}
+
+.bilberry-hugo-theme .content figure h4::before {
+    content: "▲ ";
+    color: #5c8b59;
+}
