@@ -1,14 +1,24 @@
 .bilberry-hugo-theme .content .meta ~ * a {
-    color: #217aba;
-    font-style: normal;
+	color: #217aba;
+	font-style: normal;
 }
 
-.bilberry-hugo-theme .content figure h4 {
-    font-family: inherit;
-    font-size: 1em;
+.bilberry-hugo-theme .content figure img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
-.bilberry-hugo-theme .content figure h4::before {
-    content: "▲ ";
-    color: #5c8b59;
+.bilberry-hugo-theme .content figure h4, 
+.bilberry-hugo-theme .content figure {
+	font-family: inherit;
+	font-size: 1em;
+	line-height: 1.35;
+	letter-spacing: -.08rem;
+}
+
+.bilberry-hugo-theme .content figure h4::before,
+.bilberry-hugo-theme .content figure p::before {
+	content: "▲ ";
+	color: #5c8b59;
 }
