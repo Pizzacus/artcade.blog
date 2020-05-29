@@ -25,3 +25,6 @@ DefaultContentLanguage = "fr"
   author   = "author"
   tag      = "tags"
   category = "categories"
+
+[markup.goldmark.renderer]
+  unsafe = true
